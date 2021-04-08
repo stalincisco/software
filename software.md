@@ -34,3 +34,6 @@
 
  ### 11) Atom IDE for Windows.
  [Go to the Atom IDE web Site download Atom IDE for Windows](https://atom.io/)
+
+ ### 12) Vagrant for windows 64-bit, this is for Kubernetes.
+ [Go to the Vagrant web Site download Vagrant for Windows](https://www.vagrantup.com/downloads)
