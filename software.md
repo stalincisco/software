@@ -36,7 +36,7 @@
  [Go to the Vagrant web Site download Vagrant for Windows](https://www.vagrantup.com/downloads)
 
 
- # Visual studio Extension download
+ # Visual studio code Extension download
 
 1) Cobalt2 Theme official
 2) Debugger for Chrome
