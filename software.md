@@ -17,23 +17,38 @@
  ### 5) osboxes for CentOS 8.2.2004 Virtaul machine on Window.
  [Go to the osboxes Web Site for CentOS 8.2.2004 download the (VMDK) 64bit](https://www.osboxes.org/centos/#centos-822004-vbox)
 
- ### 6) osboxes for CentOS 8.2.2004 Virtaul machine on Window.
- [Go to the osboxes Web Site for CentOS 8.2.2004 download the (VMDK) 64bit](https://www.osboxes.org/centos/#centos-822004-vbox)
-
- ### 7) MobaXterm Home Edition for Remote connection.
+ ### 6) MobaXterm Home Edition for Remote connection.
  [Go to the MobaXterm Web Site download MobaXterm Home installer edition ](https://mobaxterm.mobatek.net/download-home-edition.html)
 
- ### 8) Putty MSI (‘Windows Installer’) installer 64-bitHome.
+ ### 7) Putty MSI (‘Windows Installer’) installer 64-bitHome.
  [Go to the Putty Web Site download putty installer](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 
- ### 9) Git bash for Windows.
+ ### 8) Git bash for Windows.
  [Go to the Git bash Web Site download Git bash for Windows](https://git-scm.com/downloads)
 
- ### 10) Con EMU for Windows msi installer.
+ ### 9) Con EMU for Windows msi installer.
  [Go to the Con EMU Git web Site download Con EMU for Windows](https://conemu.github.io/en/Downloads.html)
 
- ### 11) Atom IDE for Windows.
+ ### 10) Atom IDE for Windows.
  [Go to the Atom IDE web Site download Atom IDE for Windows](https://atom.io/)
 
- ### 12) Vagrant for windows 64-bit, this is for Kubernetes.
+ ### 11) Vagrant for windows 64-bit, this is for Kubernetes.
  [Go to the Vagrant web Site download Vagrant for Windows](https://www.vagrantup.com/downloads)
+
+
+ # Visual studio Extension download
+
+1) Cobalt2 Theme official
+2) Debugger for Chrome
+3) Bracket Pair Colorizer
+4) Error Lens
+5) GitLens — Git supercharged
+6) HashiCorp Terraform
+7) Live Server
+8) Live Share
+9) Tabnine Autocomplete AI: JavaScript, Python, TypeScript, PHP, Go, Java, Ruby, C/C++, HTML/CSS, C#, Rust, SQL, Bash, Kotlin, React
+10)vscode-icons
+11) vscode-pdf
+12) YAML
+13) Remote - WSL
+14) Prettier - Code formatter
