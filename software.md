@@ -52,3 +52,11 @@
 12) YAML
 13) Remote - WSL
 14) Prettier - Code formatter
+
+ # Important links
+ 
+ 1) https://codeshare.io/
+ 2) http://www.yamllint.com/
+ 3) https://istio.io/
+ 4) https://glot.io/
+ 5) https://devspace.cloud/
