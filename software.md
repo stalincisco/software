@@ -60,3 +60,4 @@
  3) https://istio.io/
  4) https://glot.io/
  5) https://devspace.cloud/
+ 6) https://rancher.com/products/k3s/
